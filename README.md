@@ -5,7 +5,7 @@
   <a href="https://github.com/usman918dev?tab=repositories">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/usman918dev?style=social">
   </a>
-  <a href="mailto:usman918khan@gmail.com">
+  <a href="mailto:usmandev918@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-usman918khan%40gmail.com-blue?style=flat-square&logo=gmail">
   </a>
   <a href="https://usman918dev.github.io/portfolio_re/" target="_blank">
